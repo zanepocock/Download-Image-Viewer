@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Zane/StudioProjects/2.2Assignment1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Zane/AndroidStudioProjects/2.2Assignment1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="add_url">Add URL</string>
     <string name="app_name">DownloadImageViewer</string>
